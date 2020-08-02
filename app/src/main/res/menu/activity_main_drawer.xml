@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="General"
+        app:iconTint="@color/colorPrimaryDark"
+
+        >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+
+                    android:id="@+id/nav_home"
+                    android:icon="@drawable/ic_action_home"
+                    android:iconTint="@color/colorPrimaryDark"
+                    android:title="Dashboard"
+                    app:iconTint="@color/colorPrimaryDark"/>
+
+                <item
+                    android:id="@+id/ppointment"
+
+                    android:icon="@drawable/ic_action_appointment_calendar_drk"
+                    android:iconTint="@color/colorPrimaryDark"
+                    android:title="My Appointments" />
+
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Profile Details">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/profile"
+
+                    android:icon="@drawable/ic_action_profile"
+                    android:iconTint="@color/colorPrimaryDark"
+                    android:title="My Account" />
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="Settings">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_logout"
+
+                    android:icon="@drawable/ic_action_logout"
+                    android:iconTint="@color/colorPrimaryDark"
+                    android:title="Logout" />
+            </group>
+
+        </menu>
+    </item>
+</menu>

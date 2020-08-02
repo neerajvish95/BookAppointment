@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--normal colors-->
+    <color name="darkTextColor">#020000</color>
+
+
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#11CFC5</color>
+    <color name="login_bk_color">#fff</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#11CFC5</color>
+
+
+    <color name="colorPrimaryd">#106c99</color>
+    <color name="colorPrimaryDarkd">#0D4A6A</color>
+<!--    <color name="colorAccent">#FC413D</color>-->
+
+    <color name="list_divider_dark">#1EFFFFFF</color>
+    <color name="list_divider_light">#1E000000</color>
+<!--    <color name="grey_black">#343a40</color>-->
+<!--    <color name="pink_red">#ff3f62</color>-->
+<!--    <color name="alert_red">#F65656</color>-->
+
+    <color name="notification_control_tint">#ffffffff</color>
+    <color name="notification_control_tint_inverse">#E1E1E1</color>
+
+    <color name="pressed_material_light">#15000000</color>
+    <color name="selected_material_light">#45000000</color>
+    <color name="pressed_material_dark">#15ffffff</color>
+    <color name="selected_material_dark">#40ffffff</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="semitransparent">#2533b5e5</color>
+
+<!--    <color name="black">#000000</color>-->
+<!--    <color name="white">#FFFFFF</color>-->
+
+    <color name="color_filter">#60000000</color>
+
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+
+    <color name="primary_text_dark">#ffffff</color>
+
+    <color name="ic_launcher_background">#03A9F4</color>
+
+    <color name="text_highlight">#6680cbc4</color>
+
+    <color name="transferentWhite">#00FFFFFF</color>
+
+
+    <color name="colorPrimaryc">#07A0C3</color>
+    <color name="colorPrimaryDarvk">#07A0C3</color>
+<!--    <color name="colorAccent">#F0C808</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="red">#DD1C1A</color>
+    <color name="ripple_color_red">#FA9C9C</color>
+    <color name="grey">#dddddd</color>
+    <color name="black">#222222</color>
+    <color name="grey_black">#343a40</color>
+    <color name="tab_indicator">#999999</color>
+    <color name="bg_light">#eeeeee</color>
+    <color name="accent_btn_ripple">#CCBFE0</color>
+    <color name="pink_red">#ff3f62</color>
+    <color name="alert_red">#F65656</color>
+
+
+
+
+    <color name="colorPrimary">#ffba92</color>
+    <color name="colorPrimaryDark">#ff8080</color>
+    <color name="colorAccent">#F1C387</color>
+    <color name="colorText">#A2A2A2</color>
+<!--    <color name="colorWhite">#F2F1F1</color>-->
+<!--    <color name="colorWhite">#1d304e</color>-->
+    <color name="colorWhite">#0d1c2f</color>
+    <color name="colorWhitebutton">#fe8713</color>
+</resources>
